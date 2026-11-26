@@ -1,12 +1,12 @@
 {
   "schema": "gea-update/1",
   "produkt": "GEA",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "buildDatum": "2026-11-26",
-  "commit": "3f25bf8",
-  "veroeffentlicht": "2026-11-26T02:39:29Z",
-  "url": "https://github.com/GoossensEnergyGmbH/gea-neu-updates/releases/download/v2.1.6/GEA_2.1.6_x64-setup.exe",
-  "sha256": "287fce8d86753ffae1bc879b5d1b4b6562a658505e65b29450f5405b2c1d07d0",
-  "groesse": 26949200,
-  "signatur": "7sIkKZLjWCskMah/9S8YLmu8My97F3FsNuZdkWwHyjPfNzBGXSvPSb8RWRIjJoHQSPyuQTrJ+ku3n3hw0z6IAw=="
+  "commit": "df16933",
+  "veroeffentlicht": "2026-11-26T20:11:23Z",
+  "url": "https://github.com/GoossensEnergyGmbH/gea-neu-updates/releases/download/v2.1.7/GEA_2.1.7_x64-setup.exe",
+  "sha256": "4097dc8f29718c1d0ab52c0845d4b39ff9dd4fb6880f78c5c79ea535eb7485b5",
+  "groesse": 26970432,
+  "signatur": "4pzPARA9zKdk0U0n6pqCloKeNm/yNBnpZB8z8bnKHD+UWzJQoDrDc4uvmsy90/erZdFbDnQ5PdFKM4VFnIU2BQ=="
 }
